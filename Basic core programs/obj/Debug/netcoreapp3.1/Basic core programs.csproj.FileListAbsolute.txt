@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.AssemblyInfo.cs
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.exe
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.deps.json
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.runtimeconfig.json
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.dll
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\bin\Debug\netcoreapp3.1\Basic core programs.pdb
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.dll
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.pdb
+C:\Users\dell\source\repos\Basic core programs\Basic core programs\obj\Debug\netcoreapp3.1\Basic core programs.genruntimeconfig.cache
